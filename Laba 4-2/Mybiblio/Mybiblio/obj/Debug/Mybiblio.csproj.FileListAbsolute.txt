@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Mybiblio\Mybiblio\bin\Debug\Mybiblio.dll
+C:\Users\User\Desktop\Mybiblio\Mybiblio\bin\Debug\Mybiblio.pdb
+C:\Users\User\Desktop\Mybiblio\Mybiblio\obj\Debug\Mybiblio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Mybiblio\Mybiblio\obj\Debug\Mybiblio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mybiblio\Mybiblio\obj\Debug\Mybiblio.dll
+C:\Users\User\Desktop\Mybiblio\Mybiblio\obj\Debug\Mybiblio.pdb

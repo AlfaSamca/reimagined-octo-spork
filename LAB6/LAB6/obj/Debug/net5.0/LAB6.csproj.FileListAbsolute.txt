@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.exe
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.deps.json
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.runtimeconfig.json
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.runtimeconfig.dev.json
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.dll
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\ref\LAB6.dll
+C:\Users\User\source\repos\LAB6\LAB6\bin\Debug\net5.0\LAB6.pdb
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.AssemblyInfo.cs
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.dll
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\ref\LAB6.dll
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.pdb
+C:\Users\User\source\repos\LAB6\LAB6\obj\Debug\net5.0\LAB6.genruntimeconfig.cache
